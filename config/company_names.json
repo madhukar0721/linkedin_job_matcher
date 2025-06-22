@@ -1,0 +1,906 @@
+[
+  {
+    "name": "GE",
+    "id": "1015"
+  },
+  {
+    "name": "Oracle",
+    "id": "1028"
+  },
+  {
+    "name": "Microsoft",
+    "id": "1035"
+  },
+  {
+    "name": "Siemens",
+    "id": "1043"
+  },
+  {
+    "name": "Intel Corporation",
+    "id": "1053"
+  },
+  {
+    "name": "Ericsson",
+    "id": "1060"
+  },
+  {
+    "name": "Cisco",
+    "id": "1063"
+  },
+  {
+    "name": "JPMorganChase",
+    "id": "1068"
+  },
+  {
+    "name": "HSBC",
+    "id": "1241"
+  },
+  {
+    "name": "Sony",
+    "id": "1252"
+  },
+  {
+    "name": "American Express",
+    "id": "1277"
+  },
+  {
+    "name": "LinkedIn",
+    "id": "1337"
+  },
+  {
+    "name": "Honeywell",
+    "id": "1344"
+  },
+  {
+    "name": "Google",
+    "id": "1441"
+  },
+  {
+    "name": "Electronic Arts (EA)",
+    "id": "1449"
+  },
+  {
+    "name": "ADP",
+    "id": "1463"
+  },
+  {
+    "name": "Teradata",
+    "id": "1466"
+  },
+  {
+    "name": "Adobe",
+    "id": "1480"
+  },
+  {
+    "name": "AMD",
+    "id": "1497"
+  },
+  {
+    "name": "Target",
+    "id": "1512"
+  },
+  {
+    "name": "Amazon",
+    "id": "1586"
+  },
+  {
+    "name": "Intuit",
+    "id": "1666"
+  },
+  {
+    "name": "Samsung Electronics",
+    "id": "1753"
+  },
+  {
+    "name": "Qualcomm",
+    "id": "2017"
+  },
+  {
+    "name": "Visa",
+    "id": "2190"
+  },
+  {
+    "name": "BMW Group",
+    "id": "2387"
+  },
+  {
+    "name": "Wolters Kluwer",
+    "id": "2483"
+  },
+  {
+    "name": "Bloomberg",
+    "id": "2494"
+  },
+  {
+    "name": "Walmart",
+    "id": "2646"
+  },
+  {
+    "name": "OpenText",
+    "id": "2709"
+  },
+  {
+    "name": "Airbus",
+    "id": "2734"
+  },
+  {
+    "name": "Amadeus",
+    "id": "2780"
+  },
+  {
+    "name": "Visteon Corporation",
+    "id": "2865"
+  },
+  {
+    "name": "ICICI Bank",
+    "id": "2967"
+  },
+  {
+    "name": "Salesforce",
+    "id": "3185"
+  },
+  {
+    "name": "airtel",
+    "id": "3583"
+  },
+  {
+    "name": "NVIDIA",
+    "id": "3608"
+  },
+  {
+    "name": "TransUnion",
+    "id": "4310"
+  },
+  {
+    "name": "Tata Technologies",
+    "id": "6369"
+  },
+  {
+    "name": "Altair",
+    "id": "8323"
+  },
+  {
+    "name": "Newgen Software",
+    "id": "11980"
+  },
+  {
+    "name": "Kinaxis",
+    "id": "14051"
+  },
+  {
+    "name": "Zycus",
+    "id": "15671"
+  },
+  {
+    "name": "MediaTek",
+    "id": "17763"
+  },
+  {
+    "name": "Atlassian",
+    "id": "22688"
+  },
+  {
+    "name": "Synergex International Corporation",
+    "id": "25937"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "id": "30086"
+  },
+  {
+    "name": "MakeMyTrip",
+    "id": "35113"
+  },
+  {
+    "name": "Indeed",
+    "id": "36229"
+  },
+  {
+    "name": "Zoho",
+    "id": "38373"
+  },
+  {
+    "name": "Tekion Corp",
+    "id": "41315"
+  },
+  {
+    "name": "Twitter",
+    "id": "96622"
+  },
+  {
+    "name": "GEICO",
+    "id": "157327"
+  },
+  {
+    "name": "Apple",
+    "id": "162479"
+  },
+  {
+    "name": "Epic",
+    "id": "163658"
+  },
+  {
+    "name": "Ittiam Systems Pvt Ltd",
+    "id": "164504"
+  },
+  {
+    "name": "RSA Security",
+    "id": "165786"
+  },
+  {
+    "name": "Silicon Labs",
+    "id": "165971"
+  },
+  {
+    "name": "TSYS",
+    "id": "166521"
+  },
+  {
+    "name": "PubMatic",
+    "id": "167624"
+  },
+  {
+    "name": "Spotify",
+    "id": "207470"
+  },
+  {
+    "name": "Zscaler",
+    "id": "234625"
+  },
+  {
+    "name": "Perforce Delphix",
+    "id": "236924"
+  },
+  {
+    "name": "GlobalFoundries",
+    "id": "241309"
+  },
+  {
+    "name": "Celigo",
+    "id": "275831"
+  },
+  {
+    "name": "Policybazaar.com",
+    "id": "303524"
+  },
+  {
+    "name": "Airbnb",
+    "id": "309694"
+  },
+  {
+    "name": "Flipkart",
+    "id": "321062"
+  },
+  {
+    "name": "Groupon",
+    "id": "355611"
+  },
+  {
+    "name": "Myntra",
+    "id": "361348"
+  },
+  {
+    "name": "Cricbuzz.com",
+    "id": "375652"
+  },
+  {
+    "name": "Zomato",
+    "id": "422813"
+  },
+  {
+    "name": "SOTI",
+    "id": "600561"
+  },
+  {
+    "name": "YCharts",
+    "id": "601625"
+  },
+  {
+    "name": "Gainsight",
+    "id": "841640"
+  },
+  {
+    "name": "The Trade Desk",
+    "id": "892001"
+  },
+  {
+    "name": "Webkul",
+    "id": "914889"
+  },
+  {
+    "name": "Eventbase",
+    "id": "976863"
+  },
+  {
+    "name": "LogicMonitor",
+    "id": "1165219"
+  },
+  {
+    "name": "MathWorks",
+    "id": "1194036"
+  },
+  {
+    "name": "Pine Labs Prepaid",
+    "id": "1310050"
+  },
+  {
+    "name": "Tokopedia",
+    "id": "1344581"
+  },
+  {
+    "name": "GitHub",
+    "id": "1418841"
+  },
+  {
+    "name": "MulticoreWare Inc",
+    "id": "1443730"
+  },
+  {
+    "name": "Uber",
+    "id": "1815218"
+  },
+  {
+    "name": "SplashLearn",
+    "id": "1985401"
+  },
+  {
+    "name": "Stripe",
+    "id": "2135371"
+  },
+  {
+    "name": "Zerodha",
+    "id": "2160857"
+  },
+  {
+    "name": "Mindtickle",
+    "id": "2337411"
+  },
+  {
+    "name": "Paytm",
+    "id": "2340144"
+  },
+  {
+    "name": "Kwalee",
+    "id": "2358022"
+  },
+  {
+    "name": "D. E. Shaw India Private Limited",
+    "id": "2408262"
+  },
+  {
+    "name": "MixRank",
+    "id": "2476210"
+  },
+  {
+    "name": "Gusto",
+    "id": "2499210"
+  },
+  {
+    "name": "Zivame",
+    "id": "2502040"
+  },
+  {
+    "name": "LeadSquared",
+    "id": "2502171"
+  },
+  {
+    "name": "Zoom",
+    "id": "2532259"
+  },
+  {
+    "name": "Contentsquare",
+    "id": "2566485"
+  },
+  {
+    "name": "Clear",
+    "id": "2580754"
+  },
+  {
+    "name": "Deliveroo",
+    "id": "2837535"
+  },
+  {
+    "name": "HackerEarth",
+    "id": "2851534"
+  },
+  {
+    "name": "OPPO",
+    "id": "2852649"
+  },
+  {
+    "name": "Coinbase",
+    "id": "2857634"
+  },
+  {
+    "name": "Lambda",
+    "id": "2906528"
+  },
+  {
+    "name": "Zoetis",
+    "id": "2936694"
+  },
+  {
+    "name": "Clovia",
+    "id": "2958316"
+  },
+  {
+    "name": "Axelerant",
+    "id": "3142330"
+  },
+  {
+    "name": "Zoomcar",
+    "id": "3243387"
+  },
+  {
+    "name": "Atlan",
+    "id": "3374473"
+  },
+  {
+    "name": "Nykaa",
+    "id": "3545422"
+  },
+  {
+    "name": "JUSPAY",
+    "id": "3590874"
+  },
+  {
+    "name": "OYO",
+    "id": "3716484"
+  },
+  {
+    "name": "Razorpay",
+    "id": "3788927"
+  },
+  {
+    "name": "Suralink",
+    "id": "3792319"
+  },
+  {
+    "name": "HyperVerge",
+    "id": "4037280"
+  },
+  {
+    "name": "Recro",
+    "id": "4286466"
+  },
+  {
+    "name": "EXIT83 Consulting",
+    "id": "4286669"
+  },
+  {
+    "name": "Coditas",
+    "id": "4814786"
+  },
+  {
+    "name": "Rubrik",
+    "id": "4840301"
+  },
+  {
+    "name": "Cyntegrity",
+    "id": "5037093"
+  },
+  {
+    "name": "Lensa",
+    "id": "5192530"
+  },
+  {
+    "name": "Schneider Electric Hub",
+    "id": "5337149"
+  },
+  {
+    "name": "Grab",
+    "id": "5382086"
+  },
+  {
+    "name": "Keka HR",
+    "id": "6417440"
+  },
+  {
+    "name": "Sentry",
+    "id": "6424460"
+  },
+  {
+    "name": "Bizongo",
+    "id": "6429371"
+  },
+  {
+    "name": "Goboony",
+    "id": "6432696"
+  },
+  {
+    "name": "nference",
+    "id": "6439479"
+  },
+  {
+    "name": "Dozee",
+    "id": "6635733"
+  },
+  {
+    "name": "Roadcast",
+    "id": "6643003"
+  },
+  {
+    "name": "Intel Software",
+    "id": "7165895"
+  },
+  {
+    "name": "CloudSEK",
+    "id": "7596816"
+  },
+  {
+    "name": "Ayoconnect",
+    "id": "7598856"
+  },
+  {
+    "name": "interface.ai",
+    "id": "7794997"
+  },
+  {
+    "name": "Alphabet Inc.",
+    "id": "8074624"
+  },
+  {
+    "name": "Wabtec Corporation",
+    "id": "8239496"
+  },
+  {
+    "name": "Octro Inc.",
+    "id": "9195266"
+  },
+  {
+    "name": "Seceon Inc.",
+    "id": "9196673"
+  },
+  {
+    "name": "Swiggy",
+    "id": "9252341"
+  },
+  {
+    "name": "Simpl",
+    "id": "9438164"
+  },
+  {
+    "name": "Shipsy",
+    "id": "9473746"
+  },
+  {
+    "name": "Meesho",
+    "id": "10037698"
+  },
+  {
+    "name": "Zeta",
+    "id": "10355561"
+  },
+  {
+    "name": "Visit Health",
+    "id": "10434164"
+  },
+  {
+    "name": "PhonePe",
+    "id": "10479149"
+  },
+  {
+    "name": "Yugabyte",
+    "id": "10643910"
+  },
+  {
+    "name": "Groww",
+    "id": "10813156"
+  },
+  {
+    "name": "udaan.com",
+    "id": "10838271"
+  },
+  {
+    "name": "Tide",
+    "id": "10877408"
+  },
+  {
+    "name": "NinjaHoldings",
+    "id": "11458806"
+  },
+  {
+    "name": "Resecurity",
+    "id": "11749155"
+  },
+  {
+    "name": "Reality AI Lab",
+    "id": "11784315"
+  },
+  {
+    "name": "Kraftshala",
+    "id": "13224456"
+  },
+  {
+    "name": "Acko",
+    "id": "13250135"
+  },
+  {
+    "name": "OffCampusJobs4u.com",
+    "id": "13250328"
+  },
+  {
+    "name": "LambdaTest",
+    "id": "13282763"
+  },
+  {
+    "name": "AJIO.com",
+    "id": "13290802"
+  },
+  {
+    "name": "DRDO, Centre for Airborne Systems",
+    "id": "13646605"
+  },
+  {
+    "name": "Samsung India",
+    "id": "13749561"
+  },
+  {
+    "name": "Intozi",
+    "id": "14422970"
+  },
+  {
+    "name": "Dr. Ambedkar Institute of Technology for Handicapped",
+    "id": "14424314"
+  },
+  {
+    "name": "Rakuten India",
+    "id": "14433194"
+  },
+  {
+    "name": "Astrotalk",
+    "id": "14461622"
+  },
+  {
+    "name": "Zupee",
+    "id": "14478665"
+  },
+  {
+    "name": "Nerve Solutions",
+    "id": "14511687"
+  },
+  {
+    "name": "Visionyle Solutions",
+    "id": "14524005"
+  },
+  {
+    "name": "iConsultera",
+    "id": "14606618"
+  },
+  {
+    "name": "Novatr",
+    "id": "14609485"
+  },
+  {
+    "name": "huex",
+    "id": "14619767"
+  },
+  {
+    "name": "Taggd",
+    "id": "14718778"
+  },
+  {
+    "name": "DR AMBEDKAR INSTITUTE OF TECHNOLOGY FOR HANDICAPPED , KANPUR",
+    "id": "15104826"
+  },
+  {
+    "name": "Lowe's India",
+    "id": "15143454"
+  },
+  {
+    "name": "Status",
+    "id": "15174105"
+  },
+  {
+    "name": "Vultr",
+    "id": "15209570"
+  },
+  {
+    "name": "Airbase",
+    "id": "18078218"
+  },
+  {
+    "name": "WeaveGrid",
+    "id": "19171010"
+  },
+  {
+    "name": "Spyne",
+    "id": "20418623"
+  },
+  {
+    "name": "PULT",
+    "id": "20488600"
+  },
+  {
+    "name": "Google for Developers",
+    "id": "25013385"
+  },
+  {
+    "name": "Relativity",
+    "id": "25027079"
+  },
+  {
+    "name": "Chalo",
+    "id": "27451423"
+  },
+  {
+    "name": "DRDO, Ministry of Defence, Govt. of India",
+    "id": "30205475"
+  },
+  {
+    "name": "slice",
+    "id": "30246063"
+  },
+  {
+    "name": "Vimaan",
+    "id": "30594249"
+  },
+  {
+    "name": "LXT",
+    "id": "30711784"
+  },
+  {
+    "name": "Fingerprint",
+    "id": "31432400"
+  },
+  {
+    "name": "takeUforward",
+    "id": "31540296"
+  },
+  {
+    "name": "Samsung R&D Institute India - Bangalore",
+    "id": "33926293"
+  },
+  {
+    "name": "Rocketlane",
+    "id": "35928870"
+  },
+  {
+    "name": "Getmereferred - Job search made easy",
+    "id": "36015907"
+  },
+  {
+    "name": "Precisely",
+    "id": "64863146"
+  },
+  {
+    "name": "Semut.io",
+    "id": "66188405"
+  },
+  {
+    "name": "Click Compiler",
+    "id": "67161291"
+  },
+  {
+    "name": "Cactro | India\u2019s Fairest Technical Test | Trusted by 300+ Companies",
+    "id": "70559481"
+  },
+  {
+    "name": "Mercor",
+    "id": "71301545"
+  },
+  {
+    "name": "SingleStore",
+    "id": "71851558"
+  },
+  {
+    "name": "Sentics",
+    "id": "72585153"
+  },
+  {
+    "name": "StackGuardian",
+    "id": "73207926"
+  },
+  {
+    "name": "LinkedIn Guide to Creating",
+    "id": "74310544"
+  },
+  {
+    "name": "Go Careers",
+    "id": "74772403"
+  },
+  {
+    "name": "GDG Lucknow",
+    "id": "76154661"
+  },
+  {
+    "name": "InternGrow\u2122",
+    "id": "76893464"
+  },
+  {
+    "name": "PW (PhysicsWallah)",
+    "id": "78087354"
+  },
+  {
+    "name": "NAKAD",
+    "id": "78281724"
+  },
+  {
+    "name": "Slidely AI",
+    "id": "79432575"
+  },
+  {
+    "name": "Nourish",
+    "id": "80060507"
+  },
+  {
+    "name": "Shuru",
+    "id": "80144933"
+  },
+  {
+    "name": "Onehouse",
+    "id": "80166284"
+  },
+  {
+    "name": "Trellix",
+    "id": "80443373"
+  },
+  {
+    "name": "Talentz.AI",
+    "id": "80553987"
+  },
+  {
+    "name": "Blinkit",
+    "id": "80918929"
+  },
+  {
+    "name": "Call For Referral",
+    "id": "81352106"
+  },
+  {
+    "name": "Lolly.com",
+    "id": "81831600"
+  },
+  {
+    "name": "EMSEC",
+    "id": "88881523"
+  },
+  {
+    "name": "72 Dragons",
+    "id": "89705194"
+  },
+  {
+    "name": "GR8 Tech",
+    "id": "90353573"
+  },
+  {
+    "name": "Trialshopy",
+    "id": "91700360"
+  },
+  {
+    "name": "TalentMaze",
+    "id": "92596676"
+  },
+  {
+    "name": "dStream",
+    "id": "92831625"
+  },
+  {
+    "name": "Stealth AI Startup",
+    "id": "96670793"
+  },
+  {
+    "name": "M0",
+    "id": "98798516"
+  },
+  {
+    "name": "JioCinema",
+    "id": "101238223"
+  },
+  {
+    "name": "Dodo Payments",
+    "id": "102043293"
+  },
+  {
+    "name": "ILLUSIONIQ",
+    "id": "103440264"
+  },
+  {
+    "name": "Elevate A/B Testing",
+    "id": "104696653"
+  },
+  {
+    "name": "Zip, a puzzle by LinkedIn",
+    "id": "106668294"
+  }
+]

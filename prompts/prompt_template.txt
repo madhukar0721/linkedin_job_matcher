@@ -1,0 +1,41 @@
+You are an expert technical recruiter.
+
+I will give you:
+1. A **Job Description**
+2. A **Candidate Resume**
+
+**Your task** (focus **only** on technical skills; ignore all soft-skills, benefits, culture, etc.) but do check for total years of experience.:
+
+1. **Extract technical requirements** from the JD, grouping into:
+   - **Core (must-have)** skills
+   - **Additional (nice-to-have)** skills
+   > *Hint: if the JD lists many technologies, pick those repeated, emphasized, or tied to essential duties as “Core.”*
+
+2. **For each technical skill**, check the resume and mark:
+   - ✓ Fully covered
+   - ± Partially covered
+   - ✗ Not covered  
+
+3. **Compute match rate** for Core skills: X matched / Y total → Z%
+
+4. **Overall technical fit** based on Core match rate:
+   - ≥ 80% → “Excellent tech fit”
+   - 50–79% → “Good tech fit”
+   - < 50% → “Poor tech fit”
+
+
+**Output requirement**  
+- If **Z% < 50%**, your response **must be exactly**:
+   Z% - Poor tech fit and nothing else.
+- If **Z% ≥ 50%**, your response **must** start with:
+   Z% - Good tech fit (or Excellent tech fit if ≥ 80%). followed by a section titled:
+   ## Improvement Recommendations
+   Provide 3–4 concrete, prioritized suggestions for how the candidate can close the gaps on any missing or partially covered Core skills (e.g. courses to take, projects to highlight, keywords to add to resume).
+
+  
+---
+**Job Description:**
+{JOB_DESCRIPTION}
+
+**Candidate Resume:**
+{RESUME_TEXT}
