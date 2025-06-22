@@ -122,7 +122,7 @@ Experience:
 
 ## 📊 Output Example
 
-> See `data/job_analysis.md` for a sample of how each job is evaluated with headings, analysis text, and separators.
+> See `example_output.md` for a sample of how each job is evaluated with headings, analysis text, and separators.
 
 ---
 
